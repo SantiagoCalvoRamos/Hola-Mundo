@@ -1,2 +1,2 @@
 # Hola-Mundo
-Primer repositorio en GitHub
+Rama-paralela del primer repositorio en GitHub
